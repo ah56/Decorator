@@ -1,0 +1,10 @@
+.column {
+width: 30%;
+height: auto;
+float: left;
+text-align: center;
+}
+img {
+  width: 250px;
+  height: auto;
+}
