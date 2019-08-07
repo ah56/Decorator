@@ -1,10 +1,35 @@
-.column {
+.column{
 width: 30%;
 height: auto;
 float: left;
 text-align: center;
+background-color: red;
+padding-bottom: 9px;
+  border: 2px solid blue;
+}
+.column2{
+width: 30%;
+height: auto;
+float: left;
+text-align: center;
+background-color: green;
+  border: 2px solid blue;
+}
+.column3{
+width: 30%;
+height: auto;
+float: left;
+text-align: center;
+background-color: purple;
+padding-bottom: 47px;
+  border: 2px solid blue;
 }
 img {
-  width: 250px;
+
+  max-width: 250px;
   height: auto;
+
+}
+.border{
+
 }
